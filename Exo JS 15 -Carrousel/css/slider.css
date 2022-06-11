@@ -1,0 +1,60 @@
+section{
+    width: 70%;
+    margin: 0 auto;
+};
+
+
+body{
+    width: 60%;
+    margin: 0 auto;
+}
+
+section{
+    text-align: center;    
+}
+button{
+   font-size: 1.4em;
+   background-color: white;  
+}
+
+.btn {
+    box-shadow: 3px 4px 0px 0px #899599;
+    background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color: #ededed;
+    border-radius: 15px;
+    border: 1px solid #d6bcd6;
+    display: inline-block;
+    cursor: pointer;
+    color: #9e3a42;
+    font-size: 17px;
+    padding: 7px 12px;  
+    text-shadow: 0px 1px 0px #e1e2ed;
+   
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+    background-color: #bab1ba;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}
+
+figure{
+    text-align: center;
+    margin: 0 auto;
+}
+
+img{
+    border-top: 2em;
+    border: 18px rgb(36, 35, 35) solid;
+    border-radius: 2%;
+}
+figcaption{
+    font-size: 2em;
+    font-family: sans-serif;
+  
+}
+
